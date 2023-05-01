@@ -46,8 +46,6 @@ The notebook is organized into sections as follows:
 
 ## Featured Visualization <a name="featured-visualization"></a>
 
-![Military Expenditure by South American Countries](military_spending_v7.png)
-
 This chart is a visual representation of the Military Expenditure by South American countries using advanced data storytelling techniques. It provides insights into the differences in military spending among the countries in the region.
 
 ![](military_spending_v7.jpg)
