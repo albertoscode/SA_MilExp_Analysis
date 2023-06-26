@@ -16,7 +16,7 @@ This Jupyter Notebook contains code to analyze and visualize the military expend
 To get started with this Jupyter Notebook, follow these steps:
 
 1. Clone the repository or download the notebook file.
-2. Install the required libraries by running `pip install pandas openpyxl matplotlib seaborn`.
+2. To facilitate your setup, please install the necessary libraries. You can do this by executing the following command: `pip install pandas openpyxl matplotlib seaborn`. This will ensure that pandas, openpyxl, matplotlib, and seaborn are available in your Python environment.
 3. Open the Jupyter Notebook in JupyterLab, Jupyter Notebook, or your preferred Jupyter environment.
 4. Ensure that you have the input data file `SIPRI-Milex-data-2020-2022.xlsx` in the same directory as the notebook.
 5. Run the notebook cells in order.
@@ -46,7 +46,7 @@ The notebook is organized into sections as follows:
 
 ## Featured Visualization <a name="featured-visualization"></a>
 
-This chart is a visual representation of the Military Expenditure by South American countries using advanced data storytelling techniques. It provides insights into the differences in military spending among the countries in the region.
+This chart serves as an illustrative depiction of the military expenditure across South American nations, utilizing sophisticated data storytelling methods.  It sheds light on the contrasting levels of defense spending across the region, delivering valuable insights into the varied economic commitments these countries make towards their military.
 
 ![](military_spending_v7.jpg)
 
